@@ -24,3 +24,9 @@ h1 {
 > By the end of this lesson, you will be able to use some of the most common and beneficial CSS functions. You will also feel comfortable enough to try out [the whole spectrum of CSS functions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Functions) available!
 
 [memory jog](/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/CSS-FUNCTIONS-LESSON1_OF_9_FUNCTIONS-IN-css)
+
+
+memory jog:
+
+
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/CSS-FUNCTIONS-LESSON1_OF_9_FUNCTIONS-IN-css
